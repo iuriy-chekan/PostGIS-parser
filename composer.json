@@ -1,0 +1,16 @@
+{
+    "name": "ret284/type-test",
+    "authors": [
+        {
+            "name": "ret284",
+            "email": "gromret@gmail.com"
+        }
+    ],
+    "require": {
+        "mstaack/laravel-postgis": "^5.2"
+    },
+    "require-dev": {
+        "doctrine/common": "^3.2",
+        "doctrine/orm": "^2.11"
+    }
+}
